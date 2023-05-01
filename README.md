@@ -14,3 +14,6 @@ All concepts are illustrated with numerous examples, which you can play with dir
 
 ## [Guidelines for Prompting](https://github.com/Ryota-Kawamura/ChatGPT-Prompt-Engineering-for-Developers/blob/main/l2-guidelines.ipynb)
 Practice two prompting principles and their related tactics in order to write effective prompts for large language models.
+
+## [Iterative Prompt Develelopment](https://github.com/Ryota-Kawamura/ChatGPT-Prompt-Engineering-for-Developers/blob/main/l3-iterative-prompt-development.ipynb)
+Iteratively analyze and refine your prompts to generate marketing copy from a product fact sheet.
