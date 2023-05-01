@@ -11,3 +11,6 @@ This short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI)
 In addition, you’ll learn two key principles for writing effective prompts, how to systematically engineer good prompts, and also learn to build a custom chatbot. 
 
 All concepts are illustrated with numerous examples, which you can play with directly in our Jupyter notebook environment to get hands-on experience with prompt engineering. 
+
+## [Guidelines for Prompting](https://github.com/Ryota-Kawamura/ChatGPT-Prompt-Engineering-for-Developers/blob/main/l2-guidelines.ipynb)
+Practice two prompting principles and their related tactics in order to write effective prompts for large language models.
