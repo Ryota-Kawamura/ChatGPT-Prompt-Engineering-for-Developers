@@ -17,3 +17,6 @@ Practice two prompting principles and their related tactics in order to write ef
 
 ## [Iterative Prompt Develelopment](https://github.com/Ryota-Kawamura/ChatGPT-Prompt-Engineering-for-Developers/blob/main/l3-iterative-prompt-development.ipynb)
 Iteratively analyze and refine your prompts to generate marketing copy from a product fact sheet.
+
+## [Summarizing](https://github.com/Ryota-Kawamura/ChatGPT-Prompt-Engineering-for-Developers/blob/main/l4-summarizing.ipynb)
+Summarize text with a focus on specific topics.
