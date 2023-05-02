@@ -26,3 +26,6 @@ Infer sentiment and topics from product reviews and news articles.
 
 ## [Transforming](https://github.com/Ryota-Kawamura/ChatGPT-Prompt-Engineering-for-Developers/blob/main/l6-transforming.ipynb)
 Explore how to use Large Language Models for text transformation tasks such as language translation, spelling and grammar checking, tone adjustment, and format conversion.
+
+## [Expanding](https://github.com/Ryota-Kawamura/ChatGPT-Prompt-Engineering-for-Developers/blob/main/l7-expanding.ipynb)
+Generate customer service emails that are tailored to each customer's review.
