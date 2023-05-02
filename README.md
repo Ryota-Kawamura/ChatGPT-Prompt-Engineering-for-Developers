@@ -20,3 +20,6 @@ Iteratively analyze and refine your prompts to generate marketing copy from a pr
 
 ## [Summarizing](https://github.com/Ryota-Kawamura/ChatGPT-Prompt-Engineering-for-Developers/blob/main/l4-summarizing.ipynb)
 Summarize text with a focus on specific topics.
+
+## [Inferring](https://github.com/Ryota-Kawamura/ChatGPT-Prompt-Engineering-for-Developers/blob/main/l5-inferring.ipynb)
+Infer sentiment and topics from product reviews and news articles.
