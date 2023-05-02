@@ -29,3 +29,6 @@ Explore how to use Large Language Models for text transformation tasks such as l
 
 ## [Expanding](https://github.com/Ryota-Kawamura/ChatGPT-Prompt-Engineering-for-Developers/blob/main/l7-expanding.ipynb)
 Generate customer service emails that are tailored to each customer's review.
+
+## [The Chat Format](https://github.com/Ryota-Kawamura/ChatGPT-Prompt-Engineering-for-Developers/blob/main/l8-chatbot.ipynb)
+Explore how you can utilize the chat format to have extended conversations with chatbots personalized or specialized for specific tasks or behaviors.
